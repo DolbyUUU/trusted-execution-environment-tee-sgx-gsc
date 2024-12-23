@@ -8,3 +8,8 @@ This DOCX file provides step-by-step instructions and resources for setting up a
 - Building and running Gramine Shielded Containers (GSC)
 - Testing Intel SGX sample applications
 - Troubleshooting common issues
+
+## Prerequisites
+
+- Ubuntu 20.04 or later
+- Administrative privileges
